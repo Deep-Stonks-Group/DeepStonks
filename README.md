@@ -6,6 +6,7 @@ This is a github project that will be used to share code and collaborate on algo
 3. Data Retrieval
 4. Testing
 5. Stock Forcasting Research
+6. Lessons
 
 ## GUI
 
@@ -27,3 +28,7 @@ can be easily compared.
 ## Stock Forcasting Research
 
 This will be where the different research projects are stored.
+
+## Lessons
+
+This will be where I will be posting basic tutorials and content from each of our lessons.
