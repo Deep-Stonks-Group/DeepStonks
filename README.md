@@ -1,14 +1,14 @@
 # DeepStonks
 This is a github project that will be used to share code and collaborate on algorithmic trading and attempting to predict stock and cryptocurrency market behaviors. This project consists of a few main portions:
 
-1. GUI
+1. Front End
 2. Simulation
 3. Data Retrieval
 4. Testing
 5. Stock Forcasting Research
 6. Lessons
 
-## GUI
+## Front End
 
 This will be used to visualize live data and algorithm performance.
 
