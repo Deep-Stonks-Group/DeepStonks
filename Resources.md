@@ -1,8 +1,11 @@
-# Lessons
+# Resources
+
+## Lessons
 
 >[Lesson Resources](Lesssons/LessonLinks.md)
+</br>
 
-# Machine Learning
+## Machine Learning
 
 ### Code
 
@@ -20,7 +23,9 @@
 
 ### Papers
 
-# Finance
+</br>
+
+## Finance
 
 >[All Crypto Exchanges](https://discord.com/channels/833380786316115988/838478084809162795/839652666346307615)
 
@@ -36,11 +41,15 @@
 
 >[Stockswits](https://api.stocktwits.com/developers/docs/api)
 
-# Python
+</br>
+
+## Python
 
 >[Package for collecting data from any API](https://api2db.readthedocs.io/en/latest/index.html)
 
-# Misc
+</br>
+
+## Misc
 
 >[Fun Code Contests](https://www.codingame.com/multiplayer/clashofcode)
 
