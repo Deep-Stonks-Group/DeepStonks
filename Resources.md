@@ -21,6 +21,8 @@
 
 >[Complex ML Using GANs + Reinforcement Learning](https://towardsdatascience.com/aifortrading-2edd6fac689d)
 
+>[Creating an Algorithmic Trading Strategy Using Python and Logistic Regression](https://medium.com/automated-trading/creating-an-algorithmic-trading-strategy-using-python-and-logistic-regression-3b93562d9493)
+
 ### Papers
 
 </br>
@@ -40,6 +42,14 @@
 >[Stock Paper Trading](https://alpaca.markets/docs/trading-on-alpaca/paper-trading/#:~:text=Paper%20trading%20is%20free%20and,%2C%20real%2Dtime%20market%20data)
 
 >[Stockswits](https://api.stocktwits.com/developers/docs/api)
+
+>[Yahoo Finance Trending](https://finance.yahoo.com/trending-tickers)
+
+#### News Sentiments
+
+>[Stock Brain](https://stockbrain.io)
+
+>[Stock Snips](https://stocksnips.net/financial-sentiment/data-services/)
 
 </br>
 
