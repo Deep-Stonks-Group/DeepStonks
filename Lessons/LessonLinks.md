@@ -10,3 +10,8 @@
 
 ## Intro to Python Notebook
 [Intro to Python Jupyter Notebook](Intro_to_Python.ipynb)
+
+## Intro to Python for Finance
+[Notebook](Intro_To_Python_For_Finance.ipynb)
+
+[Video](https://youtu.be/5iNgm74H3zI)
