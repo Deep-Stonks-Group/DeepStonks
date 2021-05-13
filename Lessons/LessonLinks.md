@@ -15,3 +15,7 @@
 [Notebook](Intro_To_Python_For_Finance.ipynb)
 
 [Video](https://youtu.be/5iNgm74H3zI)
+
+## Introduction to Tools
+
+[Video](https://www.youtube.com/watch?v=rHPoSbbH6Dk)
