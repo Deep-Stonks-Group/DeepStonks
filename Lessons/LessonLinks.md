@@ -19,3 +19,9 @@
 ## Introduction to Tools
 
 [Video](https://www.youtube.com/watch?v=rHPoSbbH6Dk)
+
+## Intro to Python for Finance Part 2
+
+[Notebook](Intro_to_Python_for_Finance_Part_2.ipynb)
+
+[Video](https://www.youtube.com/watch?v=Wultu-2AxZg)
