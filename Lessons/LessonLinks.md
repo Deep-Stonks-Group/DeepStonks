@@ -25,3 +25,9 @@
 [Notebook](Intro_to_Python_for_Finance_Part_2.ipynb)
 
 [Video](https://www.youtube.com/watch?v=Wultu-2AxZg)
+
+## Intro to Machine Learning
+
+[Powerpoint](https://drive.google.com/file/d/1n0uvrz4oHmSDItzoRX9ERgyKmQbAwOgs/view?usp=sharing)
+
+[Video](https://youtu.be/KiT0W7Ol0oE)
