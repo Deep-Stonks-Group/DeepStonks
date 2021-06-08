@@ -31,3 +31,7 @@
 [Powerpoint](https://drive.google.com/file/d/1n0uvrz4oHmSDItzoRX9ERgyKmQbAwOgs/view?usp=sharing)
 
 [Video](https://youtu.be/KiT0W7Ol0oE)
+
+## LSTM on Stock Data
+
+[Jupyter Notebook](LSTM_Stocks.ipynb)
