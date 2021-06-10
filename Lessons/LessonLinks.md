@@ -32,6 +32,12 @@
 
 [Video](https://youtu.be/KiT0W7Ol0oE)
 
+## Intro to Machine Learning Part 2
+
+[Powerpoint](https://drive.google.com/file/d/1n0uvrz4oHmSDItzoRX9ERgyKmQbAwOgs/view?usp=sharing)
+
+[Video](https://youtu.be/Bp7jFSE-gMM)
+
 ## LSTM on Stock Data
 
 [Jupyter Notebook](LSTM_Stocks.ipynb)
