@@ -38,6 +38,10 @@
 
 [Video](https://youtu.be/Bp7jFSE-gMM)
 
+## Machine Learning in Python
+[Notebook](Machine_Learning_in_Python.ipynb)
+[Video](https://youtu.be/nqSfnMbh-Vs)
+
 ## LSTM on Stock Data
 
 [Jupyter Notebook](LSTM_Stocks.ipynb)
